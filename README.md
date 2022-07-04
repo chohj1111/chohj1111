@@ -3,8 +3,7 @@
 ### Research Interest
 
 - Computer vision
-- Multimodal Learning
-- Generative Adversarial Network
+
 
 📧 **Email**
 
