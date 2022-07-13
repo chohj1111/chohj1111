@@ -9,11 +9,11 @@
 
 chohyunjun1111@gmail.com
 
-📧 **CV**
+📁 **My Personal Page**
 
 https://sites.google.com/view/hyunjun-cho/
 
-📧 **Notion**
+🐱 **Notion**
 
 https://superficial-effect-ff3.notion.site/125a30ed40f94e9f84e86a8bf9467fc4
 
