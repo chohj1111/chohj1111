@@ -5,7 +5,8 @@
 
   📁 **My Personal Page** 
   
-  [![Google Sites Badge](https://img.shields.io/badge/-Google_Sites-4750AC?style=flat-square&logo=Google&logoColor=white&link=sites.google.com/view/hyunjun-cho/)](sites.google.com/view/hyunjun-cho/)
+  [![Google Sites Badge](https://img.shields.io/badge/-Google_Sites-4750AC?style=flat-square&logo=Google&logoColor=white&link=https://sites.google.com/view/hyunjun-cho/)](https://sites.google.com/view/hyunjun-cho/)
+  [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=WcDloqQAAAAJ&hl=ko/)](https://scholar.google.com/citations?user=WcDloqQAAAAJ&hl=ko)
   
   📧  **Contacts** 
   
