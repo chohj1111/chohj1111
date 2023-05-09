@@ -10,7 +10,7 @@
   
   📧  **Contacts** 
   
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chohj1111@korea.ac.kr)](mailto:chohyunjun1111@gmail.com)
+[![Email](https://img.shields.io/badge/Email-chohj1111@korea.ac.kr-blue)](mailto:chohj1111@korea.ac.kr)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyunjun-cho-8391151b4/)](https://www.linkedin.com/in/hyunjun-cho-8391151b4/) 
 
 
